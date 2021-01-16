@@ -1,0 +1,14 @@
+.head-1 {
+  Text-align: center;
+  font-family: georgia, serif;
+  color: rgba(185, 10, 10, 0.925);
+  font-size: 30px;
+}
+
+body {
+  background-color: rgb(13, 204, 204);
+}
+
+image {
+  border-radius: 50%;
+}
