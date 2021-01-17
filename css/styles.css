@@ -1,7 +1,7 @@
 .head-1 {
   Text-align: center;
   font-family: georgia, serif;
-  color: rgb(255, 136, 0);
+  color: rgb(58, 58, 58);
   font-size: 30px;
 }
 
@@ -24,6 +24,9 @@ img {
   margin-right: auto;
   margin-left: auto;
   width: 600px;
-  text-align: center;
-  
-}
+  }
+
+  .p-list {
+    float: left;
+    font-size: 20px;
+  }
