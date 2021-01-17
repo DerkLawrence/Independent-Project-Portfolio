@@ -39,3 +39,11 @@ img {
     font-size: 20px;
     width: 600px;
   }
+
+  .derk {
+    margin: 12px;
+    border: 2px rgb(7, 7, 4);
+    padding: 4px;
+    background-color: yellow;
+    border-radius: 50%;
+  }
