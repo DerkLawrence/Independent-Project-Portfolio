@@ -27,13 +27,15 @@ img {
   }
 
   .p-list {
-    float: left;
+    float: right;
     text-align: left;
     font-size: 20px;
+    width: 600px;
   }
 
   .d-list {
-    float: right;
-    text-align: right;
+    float: left;
+    text-align: left;
     font-size: 20px;
+    width: 600px;
   }
