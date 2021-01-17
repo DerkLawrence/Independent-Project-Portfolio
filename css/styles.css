@@ -28,10 +28,12 @@ img {
 
   .p-list {
     float: left;
+    text-align: left;
     font-size: 20px;
   }
 
   .d-list {
     float: right;
+    text-align: right;
     font-size: 20px;
   }
