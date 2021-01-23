@@ -21,6 +21,10 @@ _{Offers a glimpse into the progress made by Derek Lawrence as a coder. Example 
 * _navigate to top level of directory_
 * _open indie-project/index.html_
 
+## Web Link
+
+<a href="https://derklawrence.github.io/Independent-Project-Portfolio/">Independant Project Portfolio</a>
+
 
 ## License
 
